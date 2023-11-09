@@ -1,0 +1,35 @@
+{
+  "subtitle": "Meet Our Dedicated Team",
+  "title": "A Team of Passionate Professionals",
+  "description": "At Meri Technologies, our team is the driving force behind our success. Each member brings a unique set of skills and a shared passion for technology. Together, we turn ideas into reality and redefine industry standards.",
+  "more": {
+    "label": "Learn More About Our Team",
+    "link": "/team"
+  },
+  "items": [
+    {
+      "image": "img/team/team-front.png",
+      "imageBack": "img/team/team-back.png",
+      "name": "Khalid Hassan",
+      "role": "CEO & Founder"
+    },
+    {
+      "image": "img/team/team-front.png",
+      "imageBack": "img/team/team-back.png",
+      "name": "Seid Yassin",
+      "role": "Graphic Designer"
+    },
+    {
+      "image": "img/team/team-front.png",
+      "imageBack": "img/team/team-back.png",
+      "name": "Ahmed Hussien",
+      "role": "Digital Marketer"
+    },
+    {
+      "image": "img/team/team-front.png",
+      "imageBack": "img/team/team-back.png",
+      "name": "Neima Ali",
+      "role": "Brand Strategist"
+    }
+  ]
+}

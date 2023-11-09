@@ -1,0 +1,33 @@
+{
+  "subtitle": "Client Testimonials",
+  "title": "What Our Clients Say About Us",
+  "button": {
+    "label": "Contact Us",
+    "link": "/contact"
+  },
+  "items": [
+    {
+      "name": "Fantahun Hassen",
+      "role": "General Manager, Galaxy wisdom Training and Consultancy",
+      "text": "I have a work relationship with Meri Technologies, and I cannot express enough appreciation for their outstanding contributions to our marketing efforts. Their expertise has not only elevated our social media advertising but also provided us with visually stunning graphics for our campaigns."
+    },
+    {
+      "name": "Mohammed Ali",
+      "image": "img/team/2.png",
+      "role": "COO, Tech Addis",
+      "text": "Working with Meri Technologies has been a game-changer for our business. Their expertise in digital marketing and branding has helped us reach new heights."
+    },
+    {
+      "name": "Tigist Yohannes",
+      "image": "img/team/3.png",
+      "role": "Marketing Manager, XYZ Corp",
+      "text": "Meri Technologies understands our brand's unique needs. Their creative design solutions have made a significant impact on our brand image."
+    },
+    {
+      "name": "Ahmed Ibrahim",
+      "image": "img/team/4.png",
+      "role": "Founder, StartUp Ventures",
+      "text": "Meri Technologies is a reliable partner for startups. They provided us with a stunning website and effective digital marketing strategies."
+    }
+  ]
+}

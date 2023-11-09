@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/meritech/meri/
+    - /bin/cp -R * $DEPLOYPATH

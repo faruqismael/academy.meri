@@ -1,0 +1,74 @@
+{
+  "title": "Be The Leader of Digital <br /> Era in your Industry",
+  "words": [
+    "Graphics Design",
+    "Website Development",
+    "Full Branding",
+    "Digital Marketing",
+    "Software Development",
+    "Video Production"
+  ],
+  "button1": {
+    "label": "Explore",
+    "link": "/portfolio"
+  },
+  "button2": {
+    "label": "Contact Us",
+    "link": "/contact"
+  },
+  "image": {
+    "url": "img/hero/bg.svg",
+    "alt": "Image"
+  },
+  "rotateText": "Meri Technologies-Meri Tech-",
+  "lineText": [
+    {
+      "text": "team of smm specialists",
+      "separator": "&#x2022;"
+    },
+    {
+      "text": "team of smm specialists",
+      "separator": "&#x2022;"
+    },
+    {
+      "text": "team of smm specialists",
+      "separator": "&#x2022;"
+    },
+    {
+      "text": "team of smm specialists",
+      "separator": "&#x2022;"
+    },
+    {
+      "text": "team of smm specialists",
+      "separator": "&#x2022;"
+    },
+    {
+      "text": "team of smm specialists",
+      "separator": "&#x2022;"
+    },
+    {
+      "text": "team of smm specialists",
+      "separator": "&#x2022;"
+    },
+    {
+      "text": "team of smm specialists",
+      "separator": "&#x2022;"
+    },
+    {
+      "text": "team of smm specialists",
+      "separator": "&#x2022;"
+    },
+    {
+      "text": "team of smm specialists",
+      "separator": "&#x2022;"
+    },
+    {
+      "text": "team of smm specialists",
+      "separator": "&#x2022;"
+    },
+    {
+      "text": "team of smm specialists",
+      "separator": ""
+    }
+  ]
+}
